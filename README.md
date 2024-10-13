@@ -1,10 +1,7 @@
-## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisngari77/) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/NgariFrancisN)
+### Hi there, I'm Ngari Francis Ngethe! 👋
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+I'm an **IT Specialist**, **Machine Learning Engineer**, and **Software Engineer Scholar** with a passion for creating impactful solutions that benefit sectors like healthcare and education. My experience spans over 4 years in IT support, focusing on server administration, technical troubleshooting, and system migrations. Currently, I'm expanding my expertise in **Generative AI** and **Machine Learning** to solve real-world problems through innovative apps.
 
-<!---
-Francis-Ngethe-Ngari/Francis-Ngethe-Ngari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔧 **Expertise**: IT Support, Server Administration, Machine Learning, AI-powered Apps
+- 🌱 **Currently learning**: Generative AI, CI/CD Pipelines, Data Analysis
+- 🚀 **Goal**: To leverage AI to drive efficiency and innovation in various industries
