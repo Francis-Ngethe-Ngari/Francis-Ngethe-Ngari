@@ -1,7 +1,16 @@
-### Hi there, I'm Ngari Francis Ngethe! 👋
+### Hi there, I'm [Ngari Francis Ngethe]! 👋
 
-I'm an **IT Specialist**, **Machine Learning Engineer**, and **Software Engineer Scholar** with a passion for creating impactful solutions that benefit sectors like healthcare and education. My experience spans over 4 years in IT support, focusing on server administration, technical troubleshooting, and system migrations. Currently, I'm expanding my expertise in **Generative AI** and **Machine Learning** to solve real-world problems through innovative apps.
+🚀 **IT Specialist | Software Engineering & Machine Learning Scholar | Cloud DevOps Enthusiast**
 
-- 🔧 **Expertise**: IT Support, Server Administration, Machine Learning, AI-powered Apps
-- 🌱 **Currently learning**: Generative AI, CI/CD Pipelines, Data Analysis
-- 🚀 **Goal**: To leverage AI to drive efficiency and innovation in various industries
+With **close to 4 years of professional experience** as an **IT Specialist**, I’ve honed my skills in solving complex technical challenges, from server administration to system migrations, ensuring seamless IT operations. Now, I’m expanding my horizons through specialized training in **Software Engineering** and **Machine Learning**, with a focus on creating AI-driven solutions.
+
+I’ve also gained **Cloud DevOps** expertise, where I mastered:
+- **CI/CD pipelines** using CircleCI
+- AWS components like **EC2, S3 buckets, EBS, Cloud9, Lambda**, and more!
+
+💡 **Technologies I'm proficient in**: Python, C, C++, JavaScript  
+🌱 **Currently learning**: Generative AI, CI/CD automation, Advanced Data Analysis
+
+Whether it's optimizing cloud infrastructure, automating deployment workflows, or building intelligent apps, I’m passionate about leveraging technology to solve real-world problems and drive innovation in industries like healthcare and education.
+
+Feel free to check out my projects below and connect!
