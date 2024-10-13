@@ -1,4 +1,4 @@
-### Hi there, I'm [Ngari Francis Ngethe]! 👋
+### Hi there, I'm Ngari Francis Ngethe! 👋
 
 🚀 **IT Specialist | Software Engineering & Machine Learning Scholar | Cloud DevOps Enthusiast**
 
